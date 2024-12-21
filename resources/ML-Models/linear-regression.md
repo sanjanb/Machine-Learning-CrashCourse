@@ -47,7 +47,7 @@ Where:
 ### Example: Predicting Fuel Efficiency  
 For a car with a weight of 4,000 pounds, using the model:  y = -3.6x + 30
 The predicted fuel efficiency:  y = -3.6 * 4 + 30 = 15.6 MPG
-```
+
 
 ## 🎓 Training a Linear Model  
 
@@ -83,7 +83,7 @@ Key hyperparameters for linear regression include:
 ![Gradient Descent](images/gradient-descent.png)  
 *Gradient descent finds the optimal weights and bias by iteratively minimizing the loss function.*
 
----
+-
 
 ## 🔧 Implementation  
 
@@ -135,9 +135,9 @@ This content is inspired by the [Google ML Crash Course](https://developers.goog
 
 ## 🙌 Contributing  
 Want to improve this guide? Feel free to fork the repository and submit a pull request!  
-```
+``
 
----
+
 
 ### **Additional Suggestions**
 1. **Include Step-by-Step Tutorials**: Add beginner-friendly exercises for implementing linear regression models from scratch and using libraries like Scikit-learn.  
